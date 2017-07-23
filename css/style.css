@@ -1,0 +1,103 @@
+
+.encabezado{
+	background:#001B44;
+	color: white;
+}
+
+
+.links span{
+	font-size:30px;
+	background:#001B44;
+	color:white;
+	height: 40px;
+	width: 40px;
+	display: inline-block;
+	border-radius:10%;
+	margin: 0 10px;
+}
+
+.portfolio-azul{
+	background:#001B44;
+	color: white;
+	margin-top:15px;	
+}
+.titulo{
+	font-size:30px;
+}
+
+.titulo{
+	font-family: 'Anton', sans-serif;
+	/*font-family: 'Alfa Slab One', cursive;*/
+}
+
+.titulo2{
+	color:#001b44;
+}
+
+h1	{
+	color:#001b44;
+	font-family: 'Alfa Slab One', cursive;
+}
+hr	{
+	border-color:#001b44;
+}
+.titulodesection {
+	margin-top: 30px;
+	margin-bottom:30px;
+}
+.lineablanca{
+	border-color: white;
+}
+
+.btn-info{
+	background: transparent;
+	color: #001b44;
+	border: 1px solid #001b44 ;
+	font-weight: bold;
+}
+
+.bloque{
+	background:#001b44;	
+	font-size:30px;
+	height: 340px;
+	width: 270px;
+	display: inline-block;
+	border-radius:5%;
+	margin: 0 10px;	
+
+}
+.animation1 {
+    transition: all 1s;
+}
+.animation1:hover {
+    transform:scale(1.05);
+
+}
+.bloqueblanco{
+	background:white;	
+	font-size:30px;
+	height: 330px;
+	width: 260px;
+	display: inline-block;
+	border-radius:4%;
+	padding:100px;
+	margin-top: 5px;
+}
+.circle-icon{
+	color: rgba(117, 116, 129, 0.8);
+}
+.service-list p{
+	padding: 0px 20px; 
+}
+.bloque2{
+	background:white;	
+	font-size:30px;
+	height: 330px;
+	width: 260px;
+	display: inline-block;
+	border-radius:4%;
+	border:#001b44;
+	padding:100px;
+	margin-top: 5px;
+
+}
